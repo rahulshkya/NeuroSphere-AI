@@ -1,0 +1,13 @@
+{
+  "name": "neuroshape-ai",
+  "private": true,
+  "version": "0.0.1",
+  "packageManager": "pnpm@12.14.0",
+  "dev": "tsx src/index.ts",
+  "devDependencies": {
+    "prettier": "^3.9.10"
+  },
+  "scripts": {
+    "format": "prettier --write ."
+  }
+}
